@@ -1,0 +1,6 @@
+{
+  "name": "2D Nexus - Real Estate CRM",
+  "description": "CRM Operativo per Operatori Immobiliari per inserimento, geolocalizzazione multi-tier con mappa Leaflet, preparazione SEO e sincronizzazione backend.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
